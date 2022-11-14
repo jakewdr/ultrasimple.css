@@ -1,2 +1,2 @@
 # ultrasimple.css
-An ultra-simple classless CSS file built on water.css!
+An ultra-simple CSS file based on water.css!
